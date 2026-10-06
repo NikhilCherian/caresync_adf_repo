@@ -1,1 +1,14 @@
-{}
+{
+	"email_recipient": {
+		"type": "string",
+		"value": "cherian.nikhil2017@gmail.com"
+	},
+	"env": {
+		"type": "string",
+		"value": "DEV"
+	},
+	"logic_app_url": {
+		"type": "string",
+		"value": "https://prod-13.northeurope.logic.azure.com:443/workflows/7dc8ec9d0b4c428bb8ef04cefd73a29d/triggers/When_an_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_an_HTTP_request_is_received%2Frun&sv=1.0&sig=fEV5bcVSL2HjM7gDVjkn9QeajDrUgv5sptfcE3U4EZc"
+	}
+}
