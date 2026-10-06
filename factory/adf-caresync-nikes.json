@@ -1,6 +1,12 @@
 {
 	"name": "adf-caresync-nikes",
 	"properties": {
+		"globalParameters": {
+			"email_recipient": {
+				"type": "string",
+				"value": "cherian.nikhil2017@gmail.com"
+			}
+		},
 		"trustModeClaimForMi": {
 			"value": "Disabled",
 			"editable": true
