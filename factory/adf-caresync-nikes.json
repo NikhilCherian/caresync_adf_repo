@@ -1,0 +1,15 @@
+{
+	"name": "adf-caresync-nikes",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27e30ed8-c323-4edb-9d84-8080b14b0c30",
+		"tenantId": "8dee113b-adb8-42f4-afd8-ef80a0855dd7"
+	}
+}
